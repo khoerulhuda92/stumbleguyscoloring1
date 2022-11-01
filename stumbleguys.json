@@ -3,23 +3,23 @@
    "message": "Hai there is new update for this app please download!",
    "redirectUrl": "-",
    "moreApps": [
-      {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+       {
+         "title": "Teen Go Coloring Titans",
+         "description": "Teen Go Coloring Titans is the best coloring and drawing game for everyone, they will learn to identify the different colors.",
+         "thumb": "https://raw.githubusercontent.com/khoerulhuda92/IconColoring1/main/Teen%20titan%20Icon.png",
+         "url": "https://play.google.com/store/apps/details?id=com.colorzone.teencoloringgotitan"
       },
       {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+         "title": "Ben Coloring Ultimate 10 Alien",
+         "description": "Ben Coloring Ultimate 10 Alien game is a Great Coloring Game. it will help you to learn more about painting. ",
+         "thumb": "https://raw.githubusercontent.com/khoerulhuda92/IconColoring1/main/Ben10%20Icon.png",
+         "url": "https://play.google.com/store/apps/details?id=com.colorzone.benherocoloringalien"
       },
       {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+         "title": "BT21 Coloring Book Cartoon",
+         "description": "BT21 Coloring Book Cartoon is have fun filling up colors just by touch in this new and enhanced coloring game. ",
+         "thumb": "https://raw.githubusercontent.com/khoerulhuda92/IconColoring1/main/Bt21%20Icon.png",
+         "url": "https://play.google.com/store/apps/details?id=com.colorzone.bt21coloringbook"
       },
       {
          "title": "",
