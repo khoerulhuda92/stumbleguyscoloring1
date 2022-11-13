@@ -22,10 +22,22 @@
          "url": "https://play.google.com/store/apps/details?id=com.colorzone.bt21coloringbook"
       },
       {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+         "title": "Blippi Coloring Games",
+         "description": "Blippi coloring Games is filled with fun, colorful, and creative drawing and painting tools that help all ages enjoy creating art on your mobile device.",
+         "thumb": "https://raw.githubusercontent.com/khoerulhuda92/IconColoring1/main/Blippi%20Icon.png",
+         "url": "https://play.google.com/store/apps/details?id=com.colorzone.blippicoloring"
+      },
+	  {
+         "title": "Rainbow Friends Coloring Games",
+         "description": "Rainbow Friends Coloring Games is an educational coloring game and one of the best coloring games for horror adventure characters.",
+         "thumb": "https://raw.githubusercontent.com/khoerulhuda92/IconColoring1/main/Rainbow%20Friends%20Icon.png",
+         "url": "https://play.google.com/store/apps/details?id=com.colorzone.rainbowcoloringfriends"
+      },
+	  {
+         "title": "Stumble Coloring Guys Book",
+         "description": "Stumble Coloring Guys Book will definitely surprise you with all the different cute colors that it hasto draw overall the Stumble Guys coloring pages you like!",
+         "thumb": "https://raw.githubusercontent.com/khoerulhuda92/IconColoring1/main/Icon%20Stumble%20Guys.png",
+         "url": "https://play.google.com/store/apps/details?id=com.colorzone.stumblecoloringguys"
       },
       {
          "title": "",
